@@ -5,4 +5,4 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - it/self-check-in
+  - it/self-check-in.md
