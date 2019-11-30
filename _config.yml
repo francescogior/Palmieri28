@@ -4,5 +4,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+show_downloads: false
 include:
   - it/self-check-in.md
