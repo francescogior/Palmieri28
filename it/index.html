@@ -1,9 +1,0 @@
-<script>
-
-init = async () => {
-  a = await fetch('self-check-in.html')
-  b = await a.text()
-  document.write(b.replace('PIN_CODE', window.location.search.slice(1)))
-}
-init()
-</script>
