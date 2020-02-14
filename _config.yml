@@ -1,9 +1,0 @@
-remote-theme: jeromelachaud/grayscale-theme
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: false
-show_downloads: false
-include:
-  - it/self-check-in.md
