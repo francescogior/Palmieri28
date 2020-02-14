@@ -1,4 +1,4 @@
-# Palmieri28 - Istruzioni per il check-in
+# Istruzioni per il check-in
 
 ## Prelievo chiavi
 Presso lockers InPost 
