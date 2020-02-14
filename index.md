@@ -12,7 +12,7 @@
 By InPost lockers in __Via Cavalli 5A__: corner Corso Inghilterra, in front of Intesa Sanpaolo Skycraper. [see map 🔗](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7)
 ### Available 24 hours every day
 
-[![](https://user-images.githubusercontent.com/3280300/69881279-9f41eb00-1320-11ea-8dfe-63b9b835f0c9.png)](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7)
+![image](https://user-images.githubusercontent.com/3280300/74546737-28230700-4f9f-11ea-8d9a-8fd7dcb76b77.png)
 
 [![](https://user-images.githubusercontent.com/3280300/69876561-04431400-1314-11ea-9526-9b215a77b8b2.png)](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7)
 
@@ -27,7 +27,7 @@ __Mobile number:__ 3333 333333 _(10 times the digit 3)_
 ## Get to the apartment
 About 750 meters from the lockers. [see map 🔗](https://maps.app.goo.gl/ZSp5a5H81cP9yqfm8)
 
-[![image](https://user-images.githubusercontent.com/3280300/69880503-2b9ede80-131e-11ea-95d0-cb6ed9889964.png)](https://maps.app.goo.gl/ZSp5a5H81cP9yqfm8)
+[![image](https://user-images.githubusercontent.com/3280300/74546777-3a04aa00-4f9f-11ea-8d4f-e10dfb70778d.png)](https://maps.app.goo.gl/ZSp5a5H81cP9yqfm8)
 
 ## Access the apartment
 
