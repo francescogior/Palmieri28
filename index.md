@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css" />
+
 # Istruzioni per il check-in
 
 ## Prelievo chiavi
