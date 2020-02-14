@@ -1,5 +1,8 @@
 <script>
-a = await fetch('http://palmieri28.realb.it/it/self-check-in-2.html')
-b = await a.text()
-document.write(b.replace('comunicato', window.location.search.slice(1))
+init = async => {
+  a = await fetch('http://palmieri28.realb.it/it/self-check-in-2.html')
+  b = await a.text()
+  document.write(b.replace('comunicato', window.location.search.slice(1))
+}
+init()
 </script>
