@@ -7,8 +7,10 @@
 ## Check-in
 ### from 2pm 
 
+
 ## Pick up the keys
 By InPost lockers in __Via Cavalli 5A__: corner Corso Inghilterra, in front of Intesa Sanpaolo Skycraper. [see map 🔗](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7)
+### Available 24 hours every day
 
 [![](https://user-images.githubusercontent.com/3280300/69881279-9f41eb00-1320-11ea-8dfe-63b9b835f0c9.png)](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7)
 
