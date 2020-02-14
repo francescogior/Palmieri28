@@ -11,8 +11,7 @@
 Presso lockers InPost in __Via Cavalli 5A__: angolo Corso Inghilterra, davanti a Grattacielo Intesa Sanpaolo. [vedi mappa 🔗](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7)
 ### Disponibili tutti i giorni 24 ore
 
-[![](https://user-images.githubusercontent.com/3280300/69881279-9f41eb00-1320-11ea-8dfe-63b9b835f0c9.png)](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7)
-
+![image](https://user-images.githubusercontent.com/3280300/74546737-28230700-4f9f-11ea-8d9a-8fd7dcb76b77.png)
 
 [![](https://user-images.githubusercontent.com/3280300/69876561-04431400-1314-11ea-9526-9b215a77b8b2.png)](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7)
 
@@ -26,7 +25,7 @@ __Il tuo numero di telefono:__ 3333 333333 _(10 volte il numero 3)_
 ## Raggiungere l'appartamento
 Dai lockers all’appartamento ci sono circa 750 metri a piedi. [vedi mappa 🔗](https://maps.app.goo.gl/ZSp5a5H81cP9yqfm8)
 
-[![image](https://user-images.githubusercontent.com/3280300/69880503-2b9ede80-131e-11ea-95d0-cb6ed9889964.png)](https://maps.app.goo.gl/ZSp5a5H81cP9yqfm8)
+[![image](https://user-images.githubusercontent.com/3280300/74546777-3a04aa00-4f9f-11ea-8d4f-e10dfb70778d.png)](https://maps.app.goo.gl/ZSp5a5H81cP9yqfm8)
 
 
 ## Accedere all’appartamento
