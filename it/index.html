@@ -1,8 +1,9 @@
 <script>
+
 init = async () => {
-  a = await fetch('http://palmieri28.realb.it/it/self-check-in-2.html')
+  a = await fetch('self-check-in.html')
   b = await a.text()
-  document.write(b.replace('comunicato', window.location.search.slice(1))
+  document.write(b.replace('PIN_CODE', window.location.search.slice(1)))
 }
 init()
 </script>
