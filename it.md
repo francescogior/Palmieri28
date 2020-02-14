@@ -1,13 +1,15 @@
 <link rel="stylesheet" href="style.css" />
 
-# Benvenuti nell'appartamento Palmieri28
+[ENGLISH 🇬🇧](index) 
 
-## Prelievo chiavi
+# Benvenuti in Palmieri28
 
-### Dove
-Presso lockers InPost 
+## Check-in
+### Dalle 14 
 
-[Via Cavalli 5A](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7): angolo Corso Inghilterra, davanti a Grattacielo Sanpaolo. [vedi mappa 🔗](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7)
+## Prelevare chiavi
+Presso lockers InPost in __Via Cavalli 5A__: angolo Corso Inghilterra, davanti a Grattacielo Intesa Sanpaolo. [vedi mappa 🔗](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7)
+### Disponibili tutti i giorni 24 ore
 
 [![](https://user-images.githubusercontent.com/3280300/69881279-9f41eb00-1320-11ea-8dfe-63b9b835f0c9.png)](https://goo.gl/maps/Kx6Xvd33TvBxjkmx7)
 
@@ -47,11 +49,11 @@ Usare l’unica chiave a disposizione per aprire la porta dell’appartamento.
 
 __Entro le ore 11__
 
-La porta si chiude da sè.
+Lasciare la chiave sul tavolo.
 
-Per fare il check-out, lasciare la chiave sul tavolo.
+Chiudersi dietro la porta.
 
-Ricordarsi di aprire il portone con il telecomando prima di uscire!
+__Ricordarsi di aprire il portone con il telecomando prima di uscire!__
 
 ## WIFI
 
