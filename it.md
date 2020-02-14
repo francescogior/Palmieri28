@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css" />
 
-[ENGLISH 🇬🇧](index) 
+[ENGLISH 🇬🇧](/) 
 
 # Benvenuti in Palmieri28
 
