@@ -38,9 +38,14 @@ Usare il telecomando per aprire il cancello (qualsiasi tasto).
 
 L’appartamento si trova nel fabbricato esterno sopra i due posti auto, accessibile salendo una piccola scala.
 
-![image](https://user-images.githubusercontent.com/3280300/74534576-21d56080-4f88-11ea-9210-152300b60daa.png)
+![image](https://user-images.githubusercontent.com/3280300/95600160-ca977980-0a9d-11eb-8928-6e627ed5debe.png)
+
+![image](https://user-images.githubusercontent.com/3280300/95600181-d125f100-0a9d-11eb-8332-ac66bb419b2c.png)
+
 
 Usare l’unica chiave a disposizione per aprire la porta dell’appartamento.
+
+![image](https://user-images.githubusercontent.com/3280300/95600197-d71bd200-0a9d-11eb-94e8-9522d4811a73.png)
 
 ![image](https://user-images.githubusercontent.com/3280300/74534593-28fc6e80-4f88-11ea-97c7-d6e4878583eb.png)
 
