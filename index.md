@@ -39,9 +39,13 @@ Press any button on the remote to open the electronic gate.
 
 The apartment is located in the external building above the two parking spaces, accessible by climbing a small staircase.
 
-![image](https://user-images.githubusercontent.com/3280300/74534576-21d56080-4f88-11ea-9210-152300b60daa.png)
+![image](https://user-images.githubusercontent.com/3280300/95600160-ca977980-0a9d-11eb-8928-6e627ed5debe.png)
 
-![image](https://user-images.githubusercontent.com/3280300/74534593-28fc6e80-4f88-11ea-97c7-d6e4878583eb.png)
+![image](https://user-images.githubusercontent.com/3280300/95600181-d125f100-0a9d-11eb-8332-ac66bb419b2c.png)
+
+Use the only key to access the apartmend door.
+
+![image](https://user-images.githubusercontent.com/3280300/95600197-d71bd200-0a9d-11eb-94e8-9522d4811a73.png)
 
 ## Check out
 ### by 11am
