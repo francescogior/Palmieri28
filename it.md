@@ -17,12 +17,17 @@ Presso lockers InPost in __Via Cavalli 5A__: angolo Corso Inghilterra, davanti a
 
 ### Utilizzare istruzioni del display
 
-__Selezionare RITIRA IL TUO PACCO__
+- __Selezionare RITIRA IL TUO PACCO__
 
-__Codice PIN:__  _[verrà comunicato il giorno del check-in]_
+- __Codice PIN:__  _[verrà comunicato il giorno del check-in]_
 
-__Il tuo numero di telefono:__ 3333 333333 _(10 volte il numero 3)_
+- __Il tuo numero di telefono:__ 3333 333333 _(10 volte il numero 3)_
 ![image](https://user-images.githubusercontent.com/3280300/74534260-71fff300-4f87-11ea-8e2e-b9fa4b2c7ee7.png)
+
+Si aprirà uno degli sportelli e troverai un telecomandino rosso e una chiave
+
+![image](https://user-images.githubusercontent.com/3280300/95733125-f96e4500-0c81-11eb-92e1-6463a5a6b2b1.png)
+
 
 ## Raggiungere l'appartamento
 Dai lockers all’appartamento ci sono circa 750 metri a piedi. [vedi mappa 🔗](https://maps.app.goo.gl/ZSp5a5H81cP9yqfm8)
