@@ -20,9 +20,16 @@ By InPost lockers in __Via Cavalli 5A__: corner Corso Inghilterra, in front of I
 
 ![image](https://user-images.githubusercontent.com/3280300/74538795-0b7fd280-4f91-11ea-8dea-0285972c6002.png)
 
-__PIN CODE:__  _[it will be communicated on check-in day]_
+- __Select COLLECT YOUR PARCEL__
 
-__Mobile number:__ 3333 333333 _(10 times the digit 3)_
+- __PIN CODE:__  _[it will be communicated on check-in day]_
+
+- __Mobile number:__ 3333 333333 _(10 times the digit 3)_
+
+One of the locker will open up and you'll find a small red remote and a key
+
+![image](https://user-images.githubusercontent.com/3280300/95733125-f96e4500-0c81-11eb-92e1-6463a5a6b2b1.png)
+
 
 ## Get to the apartment
 About 750 meters from the lockers. [see map 🔗](https://maps.app.goo.gl/ZSp5a5H81cP9yqfm8)
