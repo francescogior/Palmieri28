@@ -17,6 +17,8 @@ Presso lockers InPost in __Via Cavalli 5A__: angolo Corso Inghilterra, davanti a
 
 ### Utilizzare istruzioni del display
 
+__Selezionare RITIRA IL TUO PACCO__
+
 __Codice PIN:__  _[verrà comunicato il giorno del check-in]_
 
 __Il tuo numero di telefono:__ 3333 333333 _(10 volte il numero 3)_
